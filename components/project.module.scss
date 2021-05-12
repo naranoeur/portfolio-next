@@ -1,0 +1,36 @@
+.container {
+  padding: 20px 30px;
+  background-color: #062422;
+  border-radius: 5px;
+  margin-bottom: 15px;
+}
+
+.title {
+  font-size: 23px;
+  letter-spacing: 1px;
+  margin-bottom: 15px;
+}
+
+.description {
+  margin-bottom: 15px;
+}
+
+.links {
+  font-style: italic;
+  text-decoration: underline;
+  margin-bottom: 15px;
+  .sampleUrl, .videoUrl {
+    margin-right: 15px;
+  }
+}
+
+.skills {
+  .skill {
+    display: inline-block;
+    margin-right: 10px;
+    padding: 2px 10px;
+    background-color: #6b2929;
+    border-radius: 3px;
+
+  }
+}
